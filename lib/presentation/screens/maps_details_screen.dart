@@ -73,7 +73,7 @@ Widget carDetailsCard({required Car car}) {
                 height: 20,
               ),
               Text(
-                '${car.model}',
+                car.model,
                 style: const TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,

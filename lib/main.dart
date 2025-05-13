@@ -1,10 +1,8 @@
 // Based on https://dartpad.dev/?id=d57c6c898dabb8c6fb41018588b8cf73
 import 'package:flutter/material.dart';
 import 'package:car_rent/core/my_app.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:intl/intl.dart';
 import 'firebase_options.dart';
 
 const Color darkBlue = Color.fromARGB(255, 18, 32, 47);

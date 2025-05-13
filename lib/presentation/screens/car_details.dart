@@ -3,7 +3,6 @@ import 'package:car_rent/presentation/screens/maps_details_screen.dart';
 import 'package:car_rent/presentation/widgets/car_card.dart';
 import 'package:car_rent/presentation/widgets/driver_card.dart';
 import 'package:car_rent/presentation/widgets/more_car_card.dart';
-import 'package:car_rent/presentation/widgets/more_card.dart';
 import 'package:flutter/material.dart';
 
 class CarDetails extends StatefulWidget {
